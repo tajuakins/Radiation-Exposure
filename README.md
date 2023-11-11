@@ -1,2 +1,2 @@
 # Radiation-Exposure
-Claculate rradiation exposure
+Calculate radiation exposure
